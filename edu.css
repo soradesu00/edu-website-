@@ -65,7 +65,7 @@ nav img {
     content:'';
     width: 0%;
     height: 2px;
-    background: rgb(255, 96, 38);
+    background: #f44336;
     display: block;
     margin: auto;
     transition: 0.5s;
